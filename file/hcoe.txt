@@ -1,0 +1,10 @@
+Ram            1           87
+hari           2           58
+Sita           3           55
+Gita           4           40
+Shyam          5           68
+Alpha          6           69
+Beta           7           35
+Aliza          8           55
+Sejal          9           89
+Muskan         10          97 
